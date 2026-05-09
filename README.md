@@ -11,7 +11,13 @@ This project classifies speech audio into **8 emotion categories** using a Seque
 ---
 🔗 **[ live Demo](https://noga-66.github.io/Speech-Emotion-Recognition-project/)**
 
+----
+<img width="1872" height="915" alt="Screenshot 2026-05-09 154338" src="https://github.com/user-attachments/assets/05f1b23f-394b-41c9-b8f0-c1072b0dcde3" />
 
+----
+<img width="1917" height="910" alt="Screenshot 2026-05-09 154408" src="https://github.com/user-attachments/assets/6c3826cc-da08-4d6c-be7a-def9000e02f6" />
+
+---
 ##  Emotion Classes
 
 | # | Emotion | Label |
