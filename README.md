@@ -1,6 +1,6 @@
 # 🎙️ Speech Emotion Recognition
 
-> A deep learning model that detects human emotions from speech audio using MFCC features, trained on the RAVDESS and TESS datasets.
+ A deep learning model that detects human emotions from speech audio using MFCC features, trained on the RAVDESS and TESS datasets.
 
 ---
 
