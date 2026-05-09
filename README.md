@@ -9,6 +9,8 @@
 This project classifies speech audio into **8 emotion categories** using a Sequential Neural Network trained on two benchmark datasets. It includes a full pipeline from data loading and augmentation to model training, evaluation, and an interactive web-based GUI.
 
 ---
+🔗 **[mini first live Demo](https://pccdmj7kygh53rybwvfxcg.streamlit.app/)**
+
 
 ##  Emotion Classes
 
